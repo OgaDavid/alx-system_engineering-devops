@@ -6,3 +6,4 @@ The 4-listmorefiles script display current directory contents, including hidden 
 The 5-listfilesdigitonly script  Display current directory contents in Long format with user and group IDs displayed numerically And hidden files (starting with .)
 The my_first_directory script creates a directory named my_first_directory in the /tmp/ directory.
 The my_first_directory script file Move the file betty from /tmp/ to /tmp/my_first_directory
+The 8-firstdelete script file deletes file betty is in /tmp/my_first_directory

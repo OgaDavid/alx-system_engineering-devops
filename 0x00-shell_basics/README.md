@@ -8,3 +8,4 @@ The my_first_directory script creates a directory named my_first_directory in th
 The my_first_directory script file Move the file betty from /tmp/ to /tmp/my_first_directory
 The 8-firstdelete script file deletes file betty is in /tmp/my_first_directory
 The file 9-firstdirdeletion deletes he directory my_first_directory that is in the /tmp director
+The 10-back script file changes the working directory to the previous one.

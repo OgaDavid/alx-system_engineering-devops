@@ -19,3 +19,5 @@ The 8-true_knowledge script file prints the result of the addition of 128 with t
 The 9-divide_and_rule script file prints the result of POWER divided by DIVIDE, followed by a new line.
 
 The 10-love_exponent_breath script file displays the result of BREATH to the power LOVE
+
+The 11-binary_to_decimal script file converts a number from base 2 to base 10.

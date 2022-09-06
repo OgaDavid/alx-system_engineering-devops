@@ -31,3 +31,5 @@ The 100-decimal_to_hexadecimal script file  converts a number from base 10 to ba
 The 101-rot13 script file encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 The 102-odd script file prints every other line from the input, starting with the first line.
+
+The 103-water_and_stir script file adds the two numbers stored in the environment variables WATER and STIR and prints the result.

@@ -13,3 +13,5 @@ The 5-local_variables script file lists all local variables and environment vari
 The 6-create_local_variable script file creates a new local variable.
 
 The 7-create_global_variable script file creates a new global variable.
+
+The 8-true_knowledge script file prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.

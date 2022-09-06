@@ -27,3 +27,5 @@ The 12-combinations script file prints all possible combinations of two letters,
 The 13-print_float script file prints a number with two decimal places, followed by a new line.
 
 The 100-decimal_to_hexadecimal script file  converts a number from base 10 to base 16.
+
+The 101-rot13 script file encodes and decodes text using the rot13 encryption. Assume ASCII.

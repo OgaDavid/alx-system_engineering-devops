@@ -6,3 +6,4 @@ The 2-path script file Add /action to the PATH. /action
 
 The 3-paths script file Create a script that counts the number of directories in the PATH.
 
+The printenv script file lists environment variables.
